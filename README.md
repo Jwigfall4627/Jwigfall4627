@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Jwigfall4627/Jwigfall4627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <img src= "https://static.ozobot.com/assets/ee044b53-23-ozobot-welcome-page-assets-welcome-text-2048x634.png" />
+</p>
+
+<h1>Johnathen S. Wigfall</h1>
+
+<p> This is my hub showing my programming projects. Thanks for stopping by!</p>
