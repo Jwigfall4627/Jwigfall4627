@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johnathen Wigfall</h1>
+<h1 align="center">Hi 👋 I'm Johnathen Wigfall</h1>
 <h2 align="center">A passionate Website Developer and Data Analyst</h2>
 
 
