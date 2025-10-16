@@ -13,7 +13,7 @@
 
 
 
-<h3> - 🔭 I’m currently working on 101 to Machine Learning and Language Models
+<h3> - 🔭 I’m currently working on 101 to Machine Learning and Large Language Models
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
 
