@@ -7,6 +7,14 @@
   <img src="https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif" alt="welcome" width="300"/>
 </p>
 
+
+<p align="left">
+<a href="https://linkedin.com/in/johnathen wigfall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnathen wigfall" height="30" width="40" /></a>
+<a href="https://instagram.com/1john.w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1john.w0" height="30" width="40" /></a>
+</p>
+
+
+
 <h3> - 🔭 I’m currently working on 101 to Machine Learning and Language Models
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
