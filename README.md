@@ -19,15 +19,13 @@
 
 - 🔭 I’m currently working on [Ron-Leo Weddings & Party Decor](https://jwigfall4627.github.io/RonniekaLeachWeddingWebsite/)
 
-- 🔭 I’m currently working on **Writing my first Blog**
-
-- Check out my Instagram **https://www.instagram.com/1john.w0/**
+- 🔭 I’m currently working on **Writing my first blog**
 
 - 📫 How to reach me **johnathenwigfalljr@icloud.com**
 
 - 📄 Visit my Website [https://jwigfall4627.github.io/ResumeSite/](https://jwigfall4627.github.io/ResumeSite/)
 
-- ⚡ Fun fact **I have previous job history working as a Web Developer, and I enjoy to learn all about artificial intelligence**
+- ⚡ Fun fact **I have previous job history working as a Web Developer, and I enjoy learning all about artificial intelligence**
 </h3>
 
 <h2 align="left">Connect with me:</h2>
