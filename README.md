@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif)" alt="welcome" width="300"/>
+  <img src="[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif)](https://pin.it/3Q7GF7Cpq)" alt="welcome" width="300"/>
 </p>
 
 <h1 align="center">👋 Hi — welcome to my repo!</h1>
