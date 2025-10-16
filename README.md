@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnathen Wigfall</h1>
 <h2 align="center">A passionate Website Developer and Data Analyst</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p>
+<p align="left"> <h2> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p> </h2>
 
 <h1> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p> </h1>
 
