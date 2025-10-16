@@ -6,6 +6,27 @@
 </p>
 
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="welcome" width="300"/>
+</p>
+
+<h1 align="center">👋 Hi — welcome to my repo!</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A0A0A&center=true&vCenter=true&width=600&lines=I'm+Ezra+%F0%9F%91%8B;I+build+cool+stuff+with+code+%F0%9F%9A%80;Explore+and+contribute!+%F0%9F%92%BB" alt="Typing SVG"/>
+</p>
+
+
+
+
+
+
+
+
+
+
+
 <p align="left"> <h2> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p> </h2>
 
 <p align="left"> <h1>  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p> </h1>
