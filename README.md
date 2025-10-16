@@ -5,7 +5,7 @@
 
 <h1> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p> </h1>
 
-<h3> - 🔭 I’m currently working on **101 to Machine Learning and Language Models**
+<h3> - 🔭 I’m currently working on 101 to Machine Learning and Language Models
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
 
