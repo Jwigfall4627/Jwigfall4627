@@ -1,17 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johnathen Wigfall</h1>
 <h2 align="center">A passionate Website Developer and Data Analyst</h2>
 
-
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif" alt="welcome" width="300"/>
 </p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A0A0A&center=true&vCenter=true&width=600&lines=I'm+Ezra+%F0%9F%91%8B;I+build+cool+stuff+with+code+%F0%9F%9A%80;Explore+and+contribute!+%F0%9F%92%BB" alt="Typing SVG"/>
-</p>
-
 
 <p align="left"> <h2> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p> </h2>
 
