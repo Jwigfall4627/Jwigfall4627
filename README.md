@@ -7,8 +7,6 @@
   <img src="https://user-images.githubusercontent.com/74930957/172275186-5641b509-4a50-451a-912f-827141fa82c2.gif" alt="welcome" width="300"/>
 </p>
 
-<p align="left"> <h2> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p> </h2>
-
 <h3> - 🔭 I’m currently working on 101 to Machine Learning and Language Models
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
