@@ -5,7 +5,7 @@
 
 <h1> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p> </h1>
 
- - 🔭 I’m currently working on **101 to Machine Learning and Language Models**
+<h1> - 🔭 I’m currently working on **101 to Machine Learning and Language Models**
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
 
@@ -20,6 +20,7 @@
 - 📄 Visit my Website [https://jwigfall4627.github.io/ResumeSite/](https://jwigfall4627.github.io/ResumeSite/)
 
 - ⚡ Fun fact **I have previous job history working as a Web Developer, and I enjoy to learn all about artificial intelligence**
+</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
