@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johnathen Wigfall</h1>
 <h2 align="center">A passionate Website Developer and Data Analyst</h2>
 
-<p align="center"> 
-  <img src= "https://static.ozobot.com/assets/ee044b53-23-ozobot-welcome-page-assets-welcome-text-2048x634.png" />
-</p>
-
 
 
 <p align="center">
@@ -16,14 +12,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0A0A0A&center=true&vCenter=true&width=600&lines=I'm+Ezra+%F0%9F%91%8B;I+build+cool+stuff+with+code+%F0%9F%9A%80;Explore+and+contribute!+%F0%9F%92%BB" alt="Typing SVG"/>
 </p>
-
-
-
-
-
-
-
-
 
 
 
