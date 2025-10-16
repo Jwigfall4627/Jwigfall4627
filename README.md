@@ -9,8 +9,6 @@
 
 <p align="left"> <h2> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=0e75b6&style=flat" alt="jwigfall4627" /> </p> </h2>
 
-<p align="left"> <h1>  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p> </h1>
-
 <h3> - 🔭 I’m currently working on 101 to Machine Learning and Language Models
  
 - 🌱 I’m currently learning **Python, Scikit-Learn, Pandas, JavaScript, jQuery, TypeScript, React, Bootstrap 5, Tailwind, Dart, Flutter, MySQL**
