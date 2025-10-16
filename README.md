@@ -8,10 +8,9 @@
 </p>
 
 
-<p align="left">
-<a href="https://linkedin.com/in/johnathen wigfall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="johnathen wigfall" height="30" width="40" /></a>
-<a href="https://instagram.com/1john.w0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1john.w0" height="30" width="40" /></a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jwigfall4627&label=Profile%20views&color=5661dd&style=plastic" alt="jwigfall4627" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jwigfall4627" alt="jwigfall4627" /></a> </p>
 
 
 
