@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on [Ron-Leo Weddings & Party Decor](https://jwigfall4627.github.io/RonniekaLeachWeddingWebsite/)
 
-- 🔭 I’m currently working on **Writing my first blog**
+- 🔭 I’m currently working on **Writing my first atricle**
 
 - 📫 How to reach me **johnathenwigfalljr@icloud.com**
 
